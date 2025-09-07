@@ -15,6 +15,8 @@ from lightrag.kg.shared_storage import initialize_pipeline_status
 from transformers import AutoModel, AutoTokenizer
 from tqdm import tqdm
 from lightrag.llm.ollama import ollama_model_complete, ollama_embed
+from transformers import AutoModelForCausalLM, AutoTokenizer
+import torch
 
 # Apply nest_asyncio for Jupyter environments
 nest_asyncio.apply()
@@ -128,6 +130,29 @@ async def initialize_rag(
         }
 
         # my_llm_model_func = ollama_model_complete
+
+    elif mode == "HF":
+        tokenizer = AutoTokenizer.from_pretrained(model_name)
+        model = AutoModelForCausalLM.from_pretrained(
+            model_name,
+            device_map="auto",
+            torch_dtype=torch.float16
+        )
+
+        async def hf_complete(prompt, **kwargs):
+            inputs = tokenizer(prompt, return_tensors="pt").to(model.device)
+            outputs = model.generate(**inputs, max_new_tokens=512)
+            return tokenizer.decode(outputs[0], skip_special_tokens=True)
+
+        llm_kwargs = {}
+        embedding_func = EmbeddingFunc(
+            embedding_dim=1024,
+            max_token_size=8192,
+            func=lambda texts: hf_embed(texts, AutoTokenizer.from_pretrained(embed_model_name),
+                                        AutoModel.from_pretrained(embed_model_name)),
+        )
+        my_llm_model_func = hf_complete
+
     else:
         raise ValueError(f"Unsupported mode: {mode}. Use 'API' or 'ollama'.")
     
