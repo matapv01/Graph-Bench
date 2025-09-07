@@ -1,0 +1,2538 @@
+{
+  "doc-3d7a4f05339f0e3f3870b407d21d9c8a": {
+    "relation_pairs": [
+      [
+        "北京人工智能大会",
+        "张伟"
+      ],
+      [
+        "cancer cells",
+        "lymph nodes"
+      ],
+      [
+        "clinical trials",
+        "placebo"
+      ],
+      [
+        "IV",
+        "needle"
+      ],
+      [
+        "NSCLC",
+        "Surgery"
+      ],
+      [
+        "BCR::ABL1 gene",
+        "CML"
+      ],
+      [
+        "CML",
+        "Philadelphia (Ph) chromosome"
+      ],
+      [
+        "Hodgkin Lymphoma",
+        "NCCN Guidelines"
+      ],
+      [
+        "Extracapsular or extranodal extension",
+        "Regional CSCC"
+      ],
+      [
+        "Airways of the lungs",
+        "Bronchioles"
+      ],
+      [
+        "High-risk",
+        "local recurrence"
+      ],
+      [
+        "CSCC",
+        "genetic syndromes"
+      ],
+      [
+        "Arsenic",
+        "Squamous Cell Carcinoma (CSC)"
+      ],
+      [
+        "Airways of the Lungs",
+        "Bronchi"
+      ],
+      [
+        "Ryan)<|\n(entity",
+        "Samantha)<|\n(entity"
+      ],
+      [
+        "PDEMA/Mohs surgery",
+        "Squamous cell skin cancer"
+      ],
+      [
+        "blood (hematopoietic) stem cells",
+        "platelets (PLTs or thrombocytes)"
+      ],
+      [
+        "Blood Tests",
+        "Medical Binder"
+      ],
+      [
+        "Hyperkeratosis",
+        "tazarotene"
+      ],
+      [
+        "imaging scans",
+        "nerves"
+      ],
+      [
+        "blood",
+        "red blood cells (RBCs or erythrocytes)"
+      ],
+      [
+        "Caution Warnings",
+        "Tumor Growth"
+      ],
+      [
+        "CSCC treatment",
+        "Resection"
+      ],
+      [
+        "Device",
+        "Taylor"
+      ],
+      [
+        "Mohs surgery",
+        "Scalpel"
+      ],
+      [
+        "Genetic Syndromes (XP, RDEB)",
+        "Squamous Cell Carcinoma (CSC)"
+      ],
+      [
+        "Adrenal Glands",
+        "Adrenal Tumor"
+      ],
+      [
+        "Tencent Company",
+        "people"
+      ],
+      [
+        "Cryotherapy",
+        "Liquid nitrogen"
+      ],
+      [
+        "Cancer",
+        "Radiation Therapy"
+      ],
+      [
+        ".tencent公司",
+        "张伟"
+      ],
+      [
+        "Airways of the lungs",
+        "Trachea"
+      ],
+      [
+        "Radiation therapy",
+        "Squamous cell skin cancer"
+      ],
+      [
+        "Genes",
+        "Risk Factors for Lung Cancer"
+      ],
+      [
+        "Melanin",
+        "UV Radiation"
+      ],
+      [
+        "Basal cell skin cancer",
+        "NCCN Guidelines for Patients"
+      ],
+      [
+        "clinical trials",
+        "standard treatment"
+      ],
+      [
+        "Basal cell skin cancer",
+        "Chapter 3: Types of treatment"
+      ],
+      [
+        "18-fluorodeoxyglucose",
+        "FDG-PET/CT Scan"
+      ],
+      [
+        "Different cancer doctors",
+        "Treatment decisions"
+      ],
+      [
+        "CT scan",
+        "contrast dye"
+      ],
+      [
+        "CML",
+        "myeloid progenitor cells"
+      ],
+      [
+        "Biomarker testing",
+        "Esophageal cancer"
+      ],
+      [
+        "Radiation therapy",
+        "Standard surgical excision"
+      ],
+      [
+        "Follicular Lymphoma Transformation Rate<-|>FL Transformation Rates < |>Uncategorized Classification\ncategory",
+        "The rate of transformation from FL to DLBCL varies among patients.)\n\n(relationship"
+      ],
+      [
+        "Actinic Keratoses",
+        "Laser or dermabrasion"
+      ],
+      [
+        "Cancer cells",
+        "Lymph nodes"
+      ],
+      [
+        "Jack Ma",
+        "Zhang Weihua"
+      ],
+      [
+        "CSCC",
+        "Lymph nodes"
+      ],
+      [
+        "Care team",
+        "MyChart or health record account"
+      ],
+      [
+        "Actinic Keratoses",
+        "Topical diclofenac"
+      ],
+      [
+        "Chemotherapy",
+        "Cisplatin"
+      ],
+      [
+        "Alex",
+        "Cruz"
+      ],
+      [
+        "Anus",
+        "Large Intestine"
+      ],
+      [
+        "blood",
+        "oxygen"
+      ],
+      [
+        "Stitches",
+        "skin punch biopsy"
+      ],
+      [
+        "World Athletics Championship",
+        "张伟"
+      ],
+      [
+        "Skin exams",
+        "Squamous cell skin cancer"
+      ],
+      [
+        "Lung cancer",
+        "Lymph"
+      ],
+      [
+        "Digestive System",
+        "Large Intestine"
+      ],
+      [
+        "Adrenal glands",
+        "Adrenal medulla"
+      ],
+      [
+        "tumor",
+        "wound"
+      ],
+      [
+        "Lung carcinoma",
+        "Neuroendocrine tumors"
+      ],
+      [
+        "bitcoin",
+        "人工智能大会"
+      ],
+      [
+        "Adrenal glands",
+        "Cushing syndrome"
+      ],
+      [
+        "NSCLC",
+        "Sarcomatoid carcinoma"
+      ],
+      [
+        "Hodgkin Lymphoma",
+        "NCCN Guidelines for Patients"
+      ],
+      [
+        "Cutaneous squamous cell carcinoma (CSCC)",
+        "Marjolins ulcer"
+      ],
+      [
+        "Follow-up exams",
+        "Local CSCC"
+      ],
+      [
+        "Chapter",
+        "Chemoradiation"
+      ],
+      [
+        "National Cancer Institute (NCI)",
+        "clinical trials"
+      ],
+      [
+        "NCCN.org/patientguidelines",
+        "NSCLC"
+      ],
+      [
+        "Adrenal glands",
+        "Benign adrenal tumors"
+      ],
+      [
+        "primary tumor",
+        "tumor"
+      ],
+      [
+        "Cancer-causing Chemicals (Carcinogens)",
+        "SCLC"
+      ],
+      [
+        "NSCLC",
+        "Radiation therapy"
+      ],
+      [
+        "Adenocarcinoma",
+        "type<|Other"
+      ],
+      [
+        "Basal Cell Skin Cancer",
+        "Squamous Cell Skin Cancer"
+      ],
+      [
+        "Nerve invasion",
+        "Stinging"
+      ],
+      [
+        "5-fluorouracil",
+        "Squamous cell skin cancer"
+      ],
+      [
+        "Lung Cancer",
+        "Secondhand Smoke"
+      ],
+      [
+        "SCLC",
+        "Secondhand Smoke"
+      ],
+      [
+        "Adrenal Gland Cancer",
+        "Li-Fraumeni syndrome"
+      ],
+      [
+        "Basal Cell Skin Cancer",
+        "UV Radiation"
+      ],
+      [
+        "Biopsy",
+        "Treatment plan"
+      ],
+      [
+        "U.S. National Library of Medicine (NLM)",
+        "clinical trials"
+      ],
+      [
+        "CML",
+        "Lymphoblasts"
+      ],
+      [
+        "inflamed skin",
+        "tumor"
+      ],
+      [
+        "Adjuvant Therapy",
+        "Surgery"
+      ],
+      [
+        "Care Team",
+        "Pulmonologist"
+      ],
+      [
+        "tissue sample",
+        "tumor"
+      ],
+      [
+        "Dermatologist",
+        "Squamous cell skin cancer"
+      ],
+      [
+        "Sender Recipient",
+        "Sender-Torward"
+      ],
+      [
+        "High-risk or very high-risk local CSCC",
+        "Standard surgical excision"
+      ],
+      [
+        "Asbestos",
+        "Lung Cancer"
+      ],
+      [
+        "Immunotherapy with an immune checkpoint inhibitor",
+        "Systemic therapy"
+      ],
+      [
+        "Insurance Forms",
+        "Medical Binder"
+      ],
+      [
+        "5-fluorouracil",
+        "calcipotriene"
+      ],
+      [
+        "Diaphragm",
+        "Medication"
+      ],
+      [
+        "Plastic surgeon",
+        "Squamous cell skin cancer"
+      ],
+      [
+        "Taylor",
+        "device"
+      ],
+      [
+        "CSCC risk",
+        "Weakened immune system"
+      ],
+      [
+        "blood (hematopoietic) stem cells",
+        "white blood cells (WBCs or leukocytes)"
+      ],
+      [
+        "Squamous Cell Skin Cancer",
+        "Sunlight/Outdoor Tanning"
+      ],
+      [
+        "Taylor",
+        "The Device"
+      ],
+      [
+        "Cutaneous squamous cell carcinoma (CSCC)",
+        "imaging scans"
+      ],
+      [
+        "recurrent tumors",
+        "tumor"
+      ],
+      [
+        "person<>",
+        "polyp"
+      ],
+      [
+        "leadership</|> </relationship>)\n(relationship< |invasi </|> cancer/)",
+        "polyp /s</| >growth/>./></relationship>\n\nPlease let me know if you need further information.\n\nLet's create an output of the 4th example in a proper format like this: \n```\n(entity"
+      ],
+      [
+        "Concerning features",
+        "Further treatment"
+      ],
+      [
+        "Lung carcinoma",
+        "NSCLC"
+      ],
+      [
+        "Adrenal Gland Cancer",
+        "Neurofibromatosis type 1 (NF1)"
+      ],
+      [
+        "CSCC",
+        "head"
+      ],
+      [
+        "NCCN",
+        "NCCN Patient Guides for Cancer app"
+      ],
+      [
+        "Adrenal Gland Cancer",
+        "Neuroblastoma"
+      ],
+      [
+        "Low-risk CSCC",
+        "Surgery"
+      ],
+      [
+        "Double or blurred vision",
+        "Nerve invasion"
+      ],
+      [
+        "Anal cancer",
+        "HPV"
+      ],
+      [
+        "Digestive System",
+        "Small Intestine"
+      ],
+      [
+        "Systemic therapies",
+        "Targeted therapy"
+      ],
+      [
+        "Exhaust from Cars/Vehicles",
+        "Squamous Cell Carcinoma (CSC)"
+      ],
+      [
+        "World Athletics Championship",
+        "北京"
+      ],
+      [
+        "张伟",
+        "腾讯智言"
+      ],
+      [
+        "Clinical trials",
+        "Squamous cell skin cancer"
+      ],
+      [
+        "Arsenic, Beryllium, Cadmium, Chromium, and Nickel",
+        "Lung Cancer"
+      ],
+      [
+        "Zhang Weis Product",
+        "张伟"
+      ],
+      [
+        "Skin biopsy",
+        "Squamous cell skin cancer"
+      ],
+      [
+        "Adrenal cortex",
+        "Cortisol"
+      ],
+      [
+        "Adrenal Gland Cancer",
+        "Multiple endocrine neoplasia type 1 (MEN 1)"
+      ],
+      [
+        "Actinic Keratosis",
+        "Squamous Cell Carcinoma (CSC)"
+      ],
+      [
+        "Hypodermis",
+        "Skin"
+      ],
+      [
+        "Esophageal Cancer",
+        "Esophagus"
+      ],
+      [
+        "MRI",
+        "contrast dye"
+      ],
+      [
+        "Acute Myeloid Leukemia",
+        "Bone Marrow Function"
+      ],
+      [
+        "Cruz",
+        "Taylor"
+      ],
+      [
+        "Organ transplant",
+        "Weakened immune system"
+      ],
+      [
+        "Cruz",
+        "Jordan"
+      ],
+      [
+        "CML",
+        "Myeloblasts"
+      ],
+      [
+        "Scars and Chronic Wounds",
+        "Squamous Cell Skin Cancer"
+      ],
+      [
+        "Pathologist",
+        "SLNB"
+      ],
+      [
+        "Beijing",
+        "World Athletics Championship"
+      ],
+      [
+        "Natural Language Processing Technology",
+        "Tengxun Smart Language"
+      ],
+      [
+        "blood",
+        "platelets (PLTs or thrombocytes)"
+      ],
+      [
+        "Barrett esophagus (BE)",
+        "Esophageal adenocarcinoma (EAC)"
+      ],
+      [
+        "CML",
+        "Philadelphia chromosome (Ph)"
+      ],
+      [
+        "Burning",
+        "Nerve invasion"
+      ],
+      [
+        "Lung Cancer",
+        "Radon"
+      ],
+      [
+        "Basal Cell Carcinoma",
+        "Squamous Cell Skin Cancer"
+      ],
+      [
+        "Immunotherapy",
+        "Metastatic CSCC"
+      ],
+      [
+        "BCR::ABL1 protein",
+        "CML treatment"
+      ],
+      [
+        "Actinic Keratosis",
+        "Sun Exposure"
+      ],
+      [
+        "Biopsy",
+        "Regional CSCC"
+      ],
+      [
+        "Lung Cancer",
+        "Lung Nodule"
+      ],
+      [
+        "CSCC",
+        "Squamous Cell Skin Cancer"
+      ],
+      [
+        "Lungs",
+        "Oxygen"
+      ],
+      [
+        "Marjolins ulcer",
+        "Squamous cell skin cancer"
+      ],
+      [
+        "18-fluorodeoxyglucose",
+        "FDG-PET"
+      ],
+      [
+        "CML diagnosis and treatment",
+        "Support system"
+      ],
+      [
+        "Metastatic CSCC",
+        "Targeted therapy"
+      ],
+      [
+        "Adrenal glands",
+        "Functional adrenal tumors"
+      ],
+      [
+        "blurred vision",
+        "perineural invasion"
+      ],
+      [
+        "clinical extent",
+        "tumor"
+      ],
+      [
+        "Imaging scans",
+        "Squamous cell skin cancer"
+      ],
+      [
+        "张伟",
+        "腾讯公司"
+      ],
+      [
+        "Clinical Trial",
+        "Treatment"
+      ],
+      [
+        "NCCN Guidelines for Patients",
+        "Pfizer Inc."
+      ],
+      [
+        "Large cell (undifferentiated) carcinoma",
+        "NSCLC"
+      ],
+      [
+        "Beijing Weather Forecast",
+        "天气前景"
+      ],
+      [
+        "Adrenal medulla",
+        "Norepinephrine"
+      ],
+      [
+        "PET scan",
+        "radioactive drug"
+      ],
+      [
+        "Esophageal cancer",
+        "Imaging tests"
+      ],
+      [
+        "Medical binder",
+        "imaging results"
+      ],
+      [
+        "Burns",
+        "Squamous Cell Carcinoma (CSC)"
+      ],
+      [
+        "Hodgkin Lymphoma",
+        "Hodgkin lymphoma"
+      ],
+      [
+        "blood",
+        "waste"
+      ],
+      [
+        "Melanoma",
+        "Squamous Cell Skin Cancer"
+      ],
+      [
+        "Cetuximab (Erbitux)",
+        "EGFR inhibitors"
+      ],
+      [
+        "Nerve invasion",
+        "Pain"
+      ],
+      [
+        "Dermis",
+        "Sweat Glands"
+      ],
+      [
+        "tumor cells",
+        "tumor grade"
+      ],
+      [
+        "Fibrous tissue",
+        "High-risk cancer"
+      ],
+      [
+        "Risk assessment",
+        "Tumor invasion depth"
+      ],
+      [
+        "BCR::ABL1 protein",
+        "Uncontrolled blood cell growth"
+      ],
+      [
+        "Lung Cancer",
+        "NCCN.org/patientguidelines"
+      ],
+      [
+        "Squamous Cell Carcinoma (CSC)",
+        "Ulcers (sores)"
+      ],
+      [
+        "blood",
+        "nutrients"
+      ],
+      [
+        "Adrenal Gland Cancer",
+        "Adrenocortical Carcinoma"
+      ],
+      [
+        "Standard surgical excision",
+        "Tumor"
+      ],
+      [
+        "Adrenal Gland Cancer",
+        "Beckwith-Wiedemann syndrome"
+      ],
+      [
+        "clinical trials",
+        "squamous cell skin cancer"
+      ],
+      [
+        "Care team",
+        "Patient"
+      ],
+      [
+        "Brachytherapy",
+        "Tumor"
+      ],
+      [
+        "Cancer",
+        "Category, Other)\n(entity"
+      ],
+      [
+        "Medical binder",
+        "cancer"
+      ],
+      [
+        "Patient",
+        "Support system"
+      ],
+      [
+        "Surgery",
+        "Wound"
+      ],
+      [
+        "Medicine The echocardiogram test uses sound waves to create images of the heart structure and function.)\n(entity",
+        "echocardiogram"
+      ],
+      [
+        "Medical binder",
+        "blood tests"
+      ],
+      [
+        "Low-risk CSCC",
+        "Radiation therapy"
+      ],
+      [
+        "Medical History",
+        "Physical Exam"
+      ],
+      [
+        "Lower esophagus",
+        "Middle esophagus"
+      ],
+      [
+        "Locoregional or locally advanced esophageal cancer",
+        "Metastatic esophageal cancer"
+      ],
+      [
+        "Adrenal Gland Cancer",
+        "Von Hippel-Lindau syndrome (VHL)"
+      ],
+      [
+        "PET scan",
+        "tracer"
+      ],
+      [
+        "Zhang Wei",
+        "tengxun Company"
+      ],
+      [
+        "Chemoradiation",
+        "NSCLC"
+      ],
+      [
+        "Adrenal glands",
+        "Neuroblastoma"
+      ],
+      [
+        "Lung cancer",
+        "Risk Factors for Lung Cancer"
+      ],
+      [
+        "lymph node",
+        "needle biopsy"
+      ],
+      [
+        "Clinical trial",
+        "Phase 1 trials"
+      ],
+      [
+        "CT scans",
+        "regional CSCC"
+      ],
+      [
+        "Beijing",
+        "location<|-capital city of China->)\n(entity"
+      ],
+      [
+        "Care Team",
+        "Thoracic Radiologist"
+      ],
+      [
+        "Lung cancer",
+        "Smoking"
+      ],
+      [
+        "Epidermis",
+        "Squamous Cells"
+      ],
+      [
+        "CRS2019",
+        "骨髓抑制药物"
+      ],
+      [
+        "E-cigarettes",
+        "Smoking"
+      ],
+      [
+        ".tencent智言",
+        "张伟"
+      ],
+      [
+        "Adjuvant Therapy",
+        "Cancer Recurrence"
+      ],
+      [
+        "Epidermis",
+        "Skin"
+      ],
+      [
+        "Alex's Reaction",
+        "person"
+      ],
+      [
+        "curettage and electrodesiccation",
+        "squamous cell skin cancer"
+      ],
+      [
+        "Colon",
+        "Large Intestine"
+      ],
+      [
+        "burning",
+        "perineural invasion"
+      ],
+      [
+        "Environmental Toxins",
+        "Squamous Cell Carcinoma (CSC)"
+      ],
+      [
+        "Lung Tumor",
+        "Paraneoplastic Syndromes"
+      ],
+      [
+        "Carbon-Fiber Spikes",
+        "Noah Carter"
+      ],
+      [
+        "Adrenal Gland Cancer",
+        "Multiple endocrine neoplasia type 2 (MEN 2)"
+      ],
+      [
+        "Environmental Toxins",
+        "Squamous Cell Skin Cancer"
+      ],
+      [
+        "Immune checkpoint inhibitor",
+        "Systemic therapy"
+      ],
+      [
+        "perineural invasion",
+        "stinging"
+      ],
+      [
+        "blood",
+        "white blood cells (WBCs or leukocytes)"
+      ],
+      [
+        "Hormones such as DHT (dihydrotestosterone) play a role in prostate cell growth, and some hormones have been linked to the development of both benign prostatic hyperplasia)\n(entity",
+        "hormones | Other"
+      ],
+      [
+        "Cancer",
+        "Resection"
+      ],
+      [
+        "Squamous Cell Carcinoma (CSC)",
+        "Tobacco Smoke"
+      ],
+      [
+        "Connective Tissue Disease",
+        "Radiation Therapy"
+      ],
+      [
+        "Adrenal cortex",
+        "Aldosterone"
+      ],
+      [
+        "Bowens disease",
+        "Squamous cell skin cancer"
+      ],
+      [
+        "Bronchioles",
+        "Lungs"
+      ],
+      [
+        "CSCC",
+        "severe skin damage"
+      ],
+      [
+        "NCCN",
+        "NSCLC"
+      ],
+      [
+        "NCCN Foundation®",
+        "NCCN Guidelines for Patients"
+      ],
+      [
+        "Bronchioles",
+        "Respiratory System"
+      ],
+      [
+        "Digestive System",
+        "Esophagus"
+      ],
+      [
+        "Metastasis",
+        "Very high-risk"
+      ],
+      [
+        "Dermis",
+        "Skin"
+      ],
+      [
+        "Lung nodules",
+        "Thoracic surgeon"
+      ],
+      [
+        "Organ Transplantation",
+        "Weakened Immune System"
+      ],
+      [
+        "Clinical trial",
+        "FDA"
+      ],
+      [
+        "Basal cell skin cancer",
+        "Chapter 4: Treatment by risk and recurrence"
+      ],
+      [
+        "Basal Cells",
+        "Squamous Cells"
+      ],
+      [
+        "Cancer care team",
+        "Patient"
+      ],
+      [
+        "Lesion examination",
+        "Squamous cell skin cancer"
+      ],
+      [
+        "CT Scan",
+        "PET Scan"
+      ],
+      [
+        "Curettage and electrodesiccation (C&E)",
+        "Electric needle"
+      ],
+      [
+        "Imaging Tests",
+        "Radiologist"
+      ],
+      [
+        "Blood stem cells",
+        "CML"
+      ],
+      [
+        "Pembrolizumab is a medication used to treat certain types of cancers, including melanoma.)\n\n---\n\n(entity",
+        "pemolizumab</|>KeytrudaProduct"
+      ],
+      [
+        "Lung nodules",
+        "Thoracic radiologist"
+      ],
+      [
+        "Skin biopsy",
+        "Tumor type"
+      ],
+      [
+        "Counseling",
+        "Quitting smoking"
+      ],
+      [
+        "Platinum-based chemotherapy",
+        "Systemic therapy"
+      ],
+      [
+        "NSCLC",
+        "Squamous Cell (Epidermoid) Carcinoma"
+      ],
+      [
+        "Dermis",
+        "Oil Glands"
+      ],
+      [
+        "Lung Cancer",
+        "Lung Cancer Risk Factors"
+      ],
+      [
+        "Digestive System",
+        "Stomach"
+      ],
+      [
+        "Alex",
+        "frustration"
+      ],
+      [
+        "Barrett esophagus",
+        "Proton pump inhibitor (PPI)"
+      ],
+      [
+        "CML",
+        "NCCN Guidelines for Patients"
+      ],
+      [
+        "Adrenal cortex",
+        "Adrenal glands"
+      ],
+      [
+        "Neuroendocrine cells",
+        "Small cell lung cancer (SCLC)"
+      ],
+      [
+        "Sentinel lymph node biopsy (SLNB)",
+        "Squamous cell skin cancer"
+      ],
+      [
+        "Hormonal Imbalance",
+        "Rebound Hormonal Changes"
+      ],
+      [
+        "5-fluorouracil (5-FU)",
+        "Actinic Keratoses"
+      ],
+      [
+        "loss of movement",
+        "perineural invasion"
+      ],
+      [
+        "myeloblasts",
+        "myeloid progenitor cells"
+      ],
+      [
+        "Curettage and electrodesiccation (C&E)",
+        "Tumor"
+      ],
+      [
+        "Adenoma",
+        "Adrenal Gland Cancer"
+      ],
+      [
+        "Family History",
+        "Medical History"
+      ],
+      [
+        "SCLC",
+        "Smoking"
+      ],
+      [
+        "Esophageal cancer",
+        "Spleen"
+      ],
+      [
+        "Blood tests",
+        "Treatment plan"
+      ],
+      [
+        "CSCC",
+        "death"
+      ],
+      [
+        "Biopsy",
+        "Tumor"
+      ],
+      [
+        "cancer detection",
+        "medical diagnosis, diagnostic tools"
+      ],
+      [
+        "Lung nodules",
+        "Pulmonologist"
+      ],
+      [
+        "Huang Zhudong",
+        "Tencent"
+      ],
+      [
+        "Mohs surgeon",
+        "Squamous cell skin cancer"
+      ],
+      [
+        "Cruz",
+        "device"
+      ],
+      [
+        "BCR::ABL1 protein",
+        "CML"
+      ],
+      [
+        "Basal Cell Skin Cancer",
+        "Surgery"
+      ],
+      [
+        "Insurance Cards",
+        "Medical Binder"
+      ],
+      [
+        "Carboplatin",
+        "Chemotherapy"
+      ],
+      [
+        "Nicotine withdrawal",
+        "Quitting smoking"
+      ],
+      [
+        "Hyperkeratosis",
+        "Topical keratolytics"
+      ],
+      [
+        "Pathologist",
+        "Tumor type"
+      ],
+      [
+        "Lung Cancer",
+        "Tobacco Smoke"
+      ],
+      [
+        "CML",
+        "Myeloid progenitor cells"
+      ],
+      [
+        "ALL",
+        "stromascello"
+      ],
+      [
+        "Recurrence",
+        "Tumor invasion depth"
+      ],
+      [
+        "Chemotherapy",
+        "Systemic Therapy"
+      ],
+      [
+        "Mohs surgery",
+        "Tumor"
+      ],
+      [
+        "Chemotherapy",
+        "Common Medication Combination"
+      ],
+      [
+        "CSCC",
+        "distant areas of the body"
+      ],
+      [
+        "Care team",
+        "Chapter 9"
+      ],
+      [
+        "Linear Closure",
+        "Wound"
+      ],
+      [
+        "Chemotherapy",
+        "Cisplatin and Carboplatin"
+      ],
+      [
+        "High-risk",
+        "Metastasis"
+      ],
+      [
+        "Cancer treatment effectiveness",
+        "Smoking"
+      ],
+      [
+        "Head and neck tumors",
+        "Lymph nodes"
+      ],
+      [
+        "Scalpel",
+        "Standard surgical excision"
+      ],
+      [
+        "Adenocarcinoma",
+        "NSCLC"
+      ],
+      [
+        "Alveoli",
+        "Lungs"
+      ],
+      [
+        "6 to 12 months",
+        "NCCN experts"
+      ],
+      [
+        "Squamous cell skin cancer",
+        "Systemic therapies"
+      ],
+      [
+        "Immunotherapy",
+        "Systemic therapies"
+      ],
+      [
+        "Alveoli",
+        "Respiratory System"
+      ],
+      [
+        "Adrenal Gland Cancer",
+        "Adrenal Tumor"
+      ],
+      [
+        "Full health history",
+        "Squamous cell skin cancer"
+      ],
+      [
+        "Basal Cells",
+        "Epidermis"
+      ],
+      [
+        "Medical Binder",
+        "Reports about Cancer"
+      ],
+      [
+        "Barrett esophagus",
+        "Nausea"
+      ],
+      [
+        "Jordan",
+        "Taylor"
+      ],
+      [
+        "Patient",
+        "Primary care physician"
+      ],
+      [
+        "Distant tumors",
+        "SBRT"
+      ],
+      [
+        "Care Team",
+        "Thoracic Surgeon"
+      ],
+      [
+        "Lymph Node",
+        "Tumor"
+      ],
+      [
+        "Radiation Therapy",
+        "Xeroderma Pigmentosum"
+      ],
+      [
+        "人工智能大会",
+        "北京"
+      ],
+      [
+        "Breast Cancer",
+        "Caregiver"
+      ],
+      [
+        "Medical Binder",
+        "Medical Records"
+      ],
+      [
+        "NCCN Patient Guides for Cancer app",
+        "NSCLC"
+      ],
+      [
+        "Cancer Cells",
+        "Radiation Therapy"
+      ],
+      [
+        "PET Scan",
+        "Tracer"
+      ],
+      [
+        "High-risk or very high-risk CSCC",
+        "Surgery"
+      ],
+      [
+        "Tencent",
+        "腾讯智言"
+      ],
+      [
+        "blood",
+        "plasma"
+      ],
+      [
+        "Samantha/",
+        "Teacher"
+      ],
+      [
+        "Lung cancer cells",
+        "Tumors"
+      ],
+      [
+        "Adrenal Gland Cancer",
+        "Hereditary paragangliomapheochromocytoma (PGL/PCC) syndrome"
+      ],
+      [
+        "PET/CT scan",
+        "Regional CSCC"
+      ],
+      [
+        "Medical History",
+        "Treatment"
+      ],
+      [
+        "Brachytherapy",
+        "Radiation Therapy"
+      ],
+      [
+        "Basal Cell Skin Cancer",
+        "United States"
+      ],
+      [
+        "EBRT",
+        "Tumor"
+      ],
+      [
+        "Airways",
+        "Alveoli"
+      ],
+      [
+        "Online Patient Portals",
+        "Test Results"
+      ],
+      [
+        "CSCC",
+        "sun"
+      ],
+      [
+        "lymphocytes",
+        "lymphoid progenitor cells"
+      ],
+      [
+        "Breast Cancer",
+        "Genetic Testing"
+      ],
+      [
+        "Curettage",
+        "Hyperkeratosis"
+      ],
+      [
+        "Lung Tumor",
+        "SCLC"
+      ],
+      [
+        "Family History",
+        "Relatives"
+      ],
+      [
+        "Carbon dioxide",
+        "Oxygen"
+      ],
+      [
+        "Lungs",
+        "Respiratory System"
+      ],
+      [
+        "Beijing",
+        "Tencent"
+      ],
+      [
+        "blasts",
+        "myeloid progenitor cells"
+      ],
+      [
+        "Indoor Tanning",
+        "Squamous Cell Skin Cancer"
+      ],
+      [
+        "Squamous cell skin cancer",
+        "Standard surgical excision"
+      ],
+      [
+        "Esophageal cancer",
+        "Esophageal squamous cell carcinoma (ESCC)"
+      ],
+      [
+        "Cutaneous squamous cell carcinoma (CSCC)",
+        "full health history"
+      ],
+      [
+        "Acute Myeloid Leukemia",
+        "Blood Cancer"
+      ],
+      [
+        "Adrenal glands",
+        "Aldosteronoma"
+      ],
+      [
+        "Radiation therapy",
+        "Systemic therapy"
+      ],
+      [
+        "Curettage and electrodesiccation (C&E)",
+        "Squamous cell skin cancer"
+      ],
+      [
+        "Lung Cancer",
+        "Lung Cancer Screening"
+      ],
+      [
+        "adenos </| >/ >.>)/</realtion>\n```\nIf you have any other questions please feel free to let me know.\n\n Let's create an output of the 4th example in a proper format like this \n\nLet's use the examples to show outputs:\n\nEntity:\n(relationship",
+        "growth</| >/></relationship>)\n(relationship<- adenocarniooma -"
+      ],
+      [
+        "Adrenal medulla",
+        "Dopamine"
+      ],
+      [
+        "Cutaneous squamous cell carcinoma (CSCC)",
+        "actinic keratosis"
+      ],
+      [
+        "Pathologist",
+        "Skin Biopsy"
+      ],
+      [
+        "Basal Cell Nevus Syndrome",
+        "Radiation Therapy"
+      ],
+      [
+        "Airways of the Lungs",
+        "Bronchioli"
+      ],
+      [
+        "DNA Damage",
+        "Xeroderma pigmentosum (XP)"
+      ],
+      [
+        "Radiation therapy",
+        "squamous cell skin cancer"
+      ],
+      [
+        "Systemic therapy",
+        "squamous cell skin cancer"
+      ],
+      [
+        "Event Date",
+        "Other<|-Date the pharmaceutical ban was proposed)<|\n2. (entity"
+      ],
+      [
+        "Esophagogastric junction",
+        "Stomach"
+      ],
+      [
+        "Adrenal Tumor",
+        "Hormones"
+      ],
+      [
+        "SSTR-PET",
+        "Somatostatin Receptor (SSTR) Antagonist"
+      ],
+      [
+        "Loss of feeling or movement",
+        "Nerve invasion"
+      ],
+      [
+        "Lymph nodes",
+        "Sentinel lymph node biopsy (SLNB)"
+      ],
+      [
+        "Contrast Material",
+        "MRI Scan"
+      ],
+      [
+        "Endoscopy procedures",
+        "Esophageal cancer"
+      ],
+      [
+        "Global Tech Index",
+        "Market Selloff"
+      ],
+      [
+        "Marjolins ulcer",
+        "burns"
+      ],
+      [
+        "腾讯智言",
+        "自然语言处理技术"
+      ],
+      [
+        "Immunotherapy",
+        "PD-1 inhibitors"
+      ],
+      [
+        "Alveoli",
+        "Bronchioli"
+      ],
+      [
+        "Lung cancer",
+        "Lungs"
+      ],
+      [
+        "Carcinomas",
+        "Lung Cancer"
+      ],
+      [
+        "BCR::ABL1",
+        "CML"
+      ],
+      [
+        "Dermis",
+        "Nerves"
+      ],
+      [
+        "Squamous Cell Carcinoma (CSC)",
+        "Weakened Immune System"
+      ],
+      [
+        "Medical binder",
+        "second opinion"
+      ],
+      [
+        "High-risk CSCC",
+        "Wider margin"
+      ],
+      [
+        "Nonmelanoma Skin Cancers",
+        "Squamous Cell Skin Cancer"
+      ],
+      [
+        "Follicular Lymphoma",
+        "WHO5 Classification"
+      ],
+      [
+        "Medical oncologist",
+        "Squamous cell skin cancer"
+      ],
+      [
+        "Hodgkin Lymphoma",
+        "Lymphatic system"
+      ],
+      [
+        "Clinical trial",
+        "Systemic therapy"
+      ],
+      [
+        "3 to 12 months",
+        "NCCN experts"
+      ],
+      [
+        "Metastatic cancer",
+        "Stage 4 NSCLC"
+      ],
+      [
+        "Fat",
+        "Hypodermis"
+      ],
+      [
+        "bone",
+        "imaging scans"
+      ],
+      [
+        "Actinic Keratoses",
+        "Chemical peels (trichloroacetic acid)"
+      ],
+      [
+        "Medical Binder",
+        "Test Results"
+      ],
+      [
+        "Gastroesophageal reflux disease (GERD)",
+        "Proton pump inhibitor (PPI)"
+      ],
+      [
+        "Coal Smoke, Soot, Silica, and Diesel Fumes",
+        "Lung Cancer"
+      ],
+      [
+        "Lung cancer",
+        "Squamous cell carcinoma"
+      ],
+      [
+        "Immunotherapy with cemiplimab-rwlc (Libtayo)",
+        "Surgery"
+      ],
+      [
+        "Pharmacist",
+        "Squamous cell skin cancer"
+      ],
+      [
+        "Cancer",
+        "Systemic Therapy"
+      ],
+      [
+        "Photodynamic therapy",
+        "actinic keratoses"
+      ],
+      [
+        "Adrenal Gland Cancer",
+        "Lynch syndrome"
+      ],
+      [
+        "Chemotherapy",
+        "Systemic therapies"
+      ],
+      [
+        "Lung cancer",
+        "Secondhand smoke"
+      ],
+      [
+        "Airways",
+        "Bronchi"
+      ],
+      [
+        "lesions",
+        "skin biopsy"
+      ],
+      [
+        "Noah Carter",
+        "World Athletics Championship"
+      ],
+      [
+        "GERD",
+        "Medication"
+      ],
+      [
+        "NCCN",
+        "Side effects of systemic therapy"
+      ],
+      [
+        "Biopsy",
+        "Treatment"
+      ],
+      [
+        "PD-1 inhibitors",
+        "Pembrolizumab (Keytruda)"
+      ],
+      [
+        "Actinic keratoses",
+        "Squamous cell skin cancer"
+      ],
+      [
+        "Marjolins ulcer",
+        "Scars/Chronic Wounds"
+      ],
+      [
+        "Platinum-based chemotherapy",
+        "Radiation therapy"
+      ],
+      [
+        "FDG-PET",
+        "PET/MRI"
+      ],
+      [
+        "Lymph node biopsy",
+        "Squamous cell skin cancer"
+      ],
+      [
+        "Combined (small and non-small) cell lung carcinoma",
+        "Small cell lung cancer"
+      ],
+      [
+        "Cancer Cells",
+        "SLNB"
+      ],
+      [
+        "机器学习算法,",
+        "自然语言处理技术"
+      ],
+      [
+        "Chromosome 9",
+        "Philadelphia chromosome (Ph)"
+      ],
+      [
+        "CML",
+        "Uncontrolled blood cell growth"
+      ],
+      [
+        "category overlap)<\n\n[Example 3]\n\n(entity",
+        "treatment options"
+      ],
+      [
+        "Large Intestine",
+        "Rectum"
+      ],
+      [
+        "Cancer Cells",
+        "Chemotherapy"
+      ],
+      [
+        "2 to 3 months",
+        "regional CSCC"
+      ],
+      [
+        "Airways of the lungs",
+        "Alveoli"
+      ],
+      [
+        "complete head-to-toe skin exam",
+        "diagnosis"
+      ],
+      [
+        "Adrenocortical Carcinoma",
+        "Hormones"
+      ],
+      [
+        "Cancer cells",
+        "Radiation therapy"
+      ],
+      [
+        "Cataracts",
+        "Radiation Therapy"
+      ],
+      [
+        "3 to 6 months",
+        "local CSCC"
+      ],
+      [
+        "Geneticist",
+        "Squamous cell skin cancer"
+      ],
+      [
+        "double vision",
+        "perineural invasion"
+      ],
+      [
+        "Esophageal cancer",
+        "Pancreas"
+      ],
+      [
+        "nerve",
+        "tumor"
+      ],
+      [
+        "Tokyo",
+        "World Athletics Championship"
+      ],
+      [
+        "Metastatic squamous cell skin cancer",
+        "Surgery"
+      ],
+      [
+        "Ann Arbor Staging System",
+        "NCCN Guidelines"
+      ],
+      [
+        "PET scan",
+        "PET/CT scan"
+      ],
+      [
+        "Clinical trial",
+        "Phase 2 trials"
+      ],
+      [
+        "Radiation Therapy",
+        "Ulcers"
+      ],
+      [
+        "NCCN",
+        "NCCN Guidelines for Patients"
+      ],
+      [
+        "Lesion",
+        "Skin Biopsy"
+      ],
+      [
+        "Immune-related adverse events (irAEs)",
+        "Immunotherapy"
+      ],
+      [
+        "damaged skin",
+        "tumor"
+      ],
+      [
+        "Medicines",
+        "Quitting smoking"
+      ],
+      [
+        "(NLP in healthcare,",
+        "(nlp for diagnosis,"
+      ],
+      [
+        "Keratinocyte Carcinomas",
+        "Squamous Cell Skin Cancer"
+      ],
+      [
+        "Adrenal Gland Cancer",
+        "Carney complex"
+      ],
+      [
+        "Bronchi",
+        "Lungs"
+      ],
+      [
+        "LG HG",
+        "bladder inflammation, irritation"
+      ],
+      [
+        "Biopsy",
+        "Esophageal cancer"
+      ],
+      [
+        "Nerve involvement",
+        "Risk assessment"
+      ],
+      [
+        "Bronchi",
+        "Respiratory System"
+      ],
+      [
+        "Connective tissue",
+        "High-risk cancer"
+      ],
+      [
+        "Adrenal Gland Cancer",
+        "Pheochromocytoma"
+      ],
+      [
+        "Device.",
+        "Tencent"
+      ],
+      [
+        "Adrenal Gland Cancer",
+        "Genetic Conditions"
+      ],
+      [
+        "Radiation therapy failure",
+        "Systemic therapy"
+      ],
+      [
+        "Actinic Keratoses",
+        "Imiquimod"
+      ],
+      [
+        "Blood tests",
+        "Esophageal cancer"
+      ],
+      [
+        "CML",
+        "CML specialist"
+      ],
+      [
+        "Extracapsular extension",
+        "Surgery"
+      ],
+      [
+        "Clinical trial",
+        "Metastatic CSCC"
+      ],
+      [
+        "Medication Side Effects",
+        "Rebound Hormonal Changes"
+      ],
+      [
+        "Photodynamic therapy",
+        "Squamous cell skin cancer"
+      ],
+      [
+        "CSCC",
+        "neck"
+      ],
+      [
+        "Immune System",
+        "Lymph Nodes"
+      ],
+      [
+        "Different cancer doctors",
+        "Treatment options"
+      ],
+      [
+        "Adrenal glands",
+        "Adrenocortical carcinoma (ACC)"
+      ],
+      [
+        "100m Sprint Record",
+        "Noah Carter"
+      ],
+      [
+        "Oncologist",
+        "Squamous cell skin cancer"
+      ],
+      [
+        "Chromosome 22",
+        "Philadelphia chromosome (Ph)"
+      ],
+      [
+        "CML",
+        "immune system"
+      ],
+      [
+        "Head and neck surgeon",
+        "Squamous cell skin cancer"
+      ],
+      [
+        "Imaging Results",
+        "Medical Binder"
+      ],
+      [
+        "Local CSCC",
+        "Surgery"
+      ],
+      [
+        "Jordan",
+        "The Device"
+      ],
+      [
+        "Lung cancer cells",
+        "NSCLC"
+      ],
+      [
+        "authoritative leadership",
+        "person < (relationship"
+      ],
+      [
+        "cancer grade",
+        "classification,"
+      ],
+      [
+        "Nexon Technologies",
+        "Omega Energy"
+      ],
+      [
+        "pain",
+        "perineural invasion"
+      ],
+      [
+        "Blood Tests",
+        "Hormone Secretion"
+      ],
+      [
+        "Bronchi",
+        "Squamous cell carcinoma"
+      ],
+      [
+        "Pathologist",
+        "Surgical margin"
+      ],
+      [
+        "Lymph node dissection",
+        "Lymph nodes"
+      ],
+      [
+        "blood (hematopoietic) stem cells",
+        "red blood cells (RBCs or erythrocytes)"
+      ],
+      [
+        "Adrenal medulla",
+        "Epinephrine"
+      ],
+      [
+        "EBRT",
+        "Radiation Therapy"
+      ],
+      [
+        "Airways of the lungs",
+        "Bronchus"
+      ],
+      [
+        "Abnormal Myeloid Progenitor Cells",
+        "Myeloblasts/Blasts"
+      ],
+      [
+        "Lung cancer",
+        "Small cell lung cancer (SCLC)"
+      ],
+      [
+        "local squamous cell skin cancer",
+        "regional squamous cell skin cancer"
+      ],
+      [
+        "MRI Scan",
+        "PET Scan"
+      ],
+      [
+        "Lungs",
+        "Respiratory system"
+      ],
+      [
+        "Hodgkin Lymphoma",
+        "Reed-Sternberg cells"
+      ],
+      [
+        "Melanin",
+        "Ultraviolet (UV) Rays"
+      ],
+      [
+        "Clinical trial",
+        "Phase 3 trials"
+      ],
+      [
+        "Secondary Intention Healing",
+        "Wound"
+      ],
+      [
+        "Middle esophagus",
+        "Upper esophagus"
+      ],
+      [
+        "Squamous cell skin cancer",
+        "imiquimod"
+      ],
+      [
+        "Basal Cell Skin Cancer",
+        "Systemic Therapy"
+      ],
+      [
+        "Squamous cell skin cancer",
+        "Surgical oncologist"
+      ],
+      [
+        "Epidermis",
+        "Melanocytes"
+      ],
+      [
+        "Adrenal glands",
+        "Adrenal tumors"
+      ],
+      [
+        "Alex",
+        "Taylor"
+      ],
+      [
+        "Bronchi",
+        "Trachea"
+      ],
+      [
+        "Airways of the lungs",
+        "Lung carcinomas"
+      ],
+      [
+        "Squamous cell skin cancer",
+        "Systemic therapy"
+      ],
+      [
+        "Alex",
+        "Jordan"
+      ],
+      [
+        "Large Cell (Undifferentiated) Carcinoma",
+        "NSCLC"
+      ],
+      [
+        "imaging scans",
+        "soft tissue"
+      ],
+      [
+        "Medical Binder",
+        "Primary Care Physician"
+      ],
+      [
+        "Tengxun smart language",
+        "Zhang Wei"
+      ],
+      [
+        "Cryotherapy",
+        "Squamous cell skin cancer"
+      ],
+      [
+        "cancer cells",
+        "non-cancer cells"
+      ],
+      [
+        "Chapter",
+        "Radiation therapy"
+      ],
+      [
+        "Early-stage esophageal cancer",
+        "Locoregional or locally advanced esophageal cancer"
+      ],
+      [
+        "Air Pollution",
+        "Lung Cancer"
+      ],
+      [
+        "Physical Therapy",
+        "Rehabilitation"
+      ],
+      [
+        "Person",
+        "Tencent Company"
+      ],
+      [
+        "Rare subtypes of squamous cell skin cancer",
+        "Recurrence"
+      ],
+      [
+        "scar",
+        "tumor"
+      ],
+      [
+        "Airways",
+        "Bronchioles"
+      ],
+      [
+        "Alex",
+        "Device/Artificial Intelligence"
+      ],
+      [
+        "Chemotherapy",
+        "Radiation Therapy"
+      ],
+      [
+        "Basal Cell Skin Cancer",
+        "Radiation Therapy"
+      ],
+      [
+        "FDG-PET/CT Scan",
+        "PET Scan"
+      ],
+      [
+        "Esophageal cancer",
+        "Lymph nodes"
+      ],
+      [
+        "Tmall",
+        "WeChat"
+      ],
+      [
+        "Esophageal cancer",
+        "Liver"
+      ],
+      [
+        "Blood Vessels",
+        "Dermis"
+      ],
+      [
+        "Cemiplimab (Libtayo)",
+        "PD-1 inhibitors"
+      ],
+      [
+        "Online patient portals",
+        "Test results"
+      ],
+      [
+        "Side effects of systemic therapy",
+        "Systemic therapies"
+      ],
+      [
+        "Cruz",
+        "vision"
+      ],
+      [
+        "Taylor",
+        "reverence"
+      ],
+      [
+        "Medical History",
+        "Symptoms"
+      ],
+      [
+        "Corticosteroid use",
+        "Weakened immune system"
+      ],
+      [
+        "Cancer growth and spread",
+        "Tumor grade"
+      ],
+      [
+        "Adrenal Gland Cancer",
+        "Familial adenomatous polyposis (FAP)"
+      ],
+      [
+        "Connective Tissue",
+        "Hypodermis"
+      ],
+      [
+        "(low-grade/",
+        "high-grade)"
+      ],
+      [
+        "Basal Cell Skin Cancer",
+        "Melanoma"
+      ],
+      [
+        "Follow-up exams",
+        "Regional CSCC"
+      ],
+      [
+        "Radiation oncologist",
+        "Squamous cell skin cancer"
+      ],
+      [
+        "NCCN Cancer Centers",
+        "clinical trials"
+      ],
+      [
+        "Lung cancer",
+        "Tumor"
+      ],
+      [
+        "Lung cancer",
+        "Lung cancer screening"
+      ],
+      [
+        "Imaging studies",
+        "Treatment plan"
+      ],
+      [
+        "Cancer spread",
+        "Lymph or blood vessels"
+      ],
+      [
+        "Neurosurgeon",
+        "relationship"
+      ],
+      [
+        "Medical Binder",
+        "Small Calendar"
+      ],
+      [
+        "Airways of the Lungs",
+        "Alveoli"
+      ],
+      [
+        "Adenosquamous carcinoma",
+        "NSCLC"
+      ],
+      [
+        "Adenocarcinoma",
+        "Alveoli"
+      ],
+      [
+        "Adrenal cortex",
+        "DHEA"
+      ],
+      [
+        "Clinical trial",
+        "Phase 4 trials"
+      ],
+      [
+        "PET/MRI",
+        "SSTR-PET"
+      ],
+      [
+        "Medical Binder",
+        "Pen"
+      ],
+      [
+        "Acute Myeloid Leukemia",
+        "National Comprehensive Cancer Network Guidelines"
+      ],
+      [
+        "Doctor",
+        "Genetic Testing"
+      ],
+      [
+        "Bronchi",
+        "Bronchioli"
+      ],
+      [
+        "Painful Blisters",
+        "Recessive dystrophic epidermolysis bullosa (RDEB)"
+      ],
+      [
+        "Actinic Keratoses",
+        "Cryotherapy"
+      ],
+      [
+        "Radiation therapy",
+        "Tumor"
+      ],
+      [
+        "blood (hematopoietic) stem cells",
+        "bone marrow"
+      ],
+      [
+        "Marjolins ulcer",
+        "scars"
+      ],
+      [
+        "excision biopsy",
+        "lesion"
+      ],
+      [
+        "Early and locally advanced NSCLC",
+        "Stages 1, 2, and 3 NSCLC"
+      ],
+      [
+        "Esophageal cancer",
+        "Genetic risk testing"
+      ],
+      [
+        "Dermis",
+        "Hair Follicles"
+      ],
+      [
+        "Cancer",
+        "Chemotherapy"
+      ],
+      [
+        "Actinic Keratoses",
+        "calcipotriene (Sorilux, Dovonex)"
+      ],
+      [
+        "dermis",
+        "epidermis"
+      ],
+      [
+        "CSCC",
+        "immune system"
+      ],
+      [
+        "Carbon dioxide",
+        "Lungs"
+      ],
+      [
+        "Lymph node dissection",
+        "Squamous cell skin cancer"
+      ],
+      [
+        "Lung nodules",
+        "NSCLC"
+      ],
+      [
+        "Regional CSCC",
+        "Surgery"
+      ],
+      [
+        "Computed tomography (CT) scan",
+        "Regional CSCC"
+      ],
+      [
+        "Skin Biopsy",
+        "Squamous Cell Carcinoma (CSC)"
+      ],
+      [
+        "Microscope",
+        "Mohs surgery"
+      ],
+      [
+        "Biopsy",
+        "CML treatment"
+      ],
+      [
+        "Jordan",
+        "person"
+      ],
+      [
+        "Lymph nodes with cancer",
+        "Surgery"
+      ],
+      [
+        "Skin Graft",
+        "Wound"
+      ],
+      [
+        "Tencent Inc",
+        "|Chief Technical Officer关系relationship张伟"
+      ],
+      [
+        "Marjolins ulcer",
+        "old wounds"
+      ],
+      [
+        "Curettage and electrodesiccation (C&E)",
+        "Low-risk CSCC"
+      ],
+      [
+        "CSCC treatment",
+        "Mohs surgery"
+      ],
+      [
+        "loss of feeling",
+        "perineural invasion"
+      ],
+      [
+        "Risk assessment",
+        "Tumor grade"
+      ],
+      [
+        "Airways of the Lungs",
+        "Trachea (Windpipe)"
+      ],
+      [
+        "Surgery",
+        "Systemic therapies"
+      ],
+      [
+        "CT Scan",
+        "Contrast Material"
+      ],
+      [
+        "<|}( Zhang wei  is one who releases devices)",
+        "device < |> 张伟"
+      ],
+      [
+        "Actinic Keratoses",
+        "Tirbanibulin (Klisyri)"
+      ],
+      [
+        "EGFR inhibitors",
+        "Targeted therapy"
+      ],
+      [
+        "Lung Cancer",
+        "NCCN Patient Guides for Cancer app"
+      ],
+      [
+        "Adrenal glands",
+        "Malignant adrenal tumors"
+      ],
+      [
+        "Pathologist",
+        "Squamous cell skin cancer"
+      ],
+      [
+        "Esophageal cancer",
+        "Lungs"
+      ],
+      [
+        "Mohs surgery",
+        "Squamous cell skin cancer"
+      ],
+      [
+        "Oncology nurse",
+        "Squamous cell skin cancer"
+      ],
+      [
+        "Natural Language Processing Focus",
+        "自然语言处理关注点"
+      ],
+      [
+        "Exam schedule",
+        "NCCN experts"
+      ],
+      [
+        "Esophageal adenocarcinoma (EAC)",
+        "Esophageal cancer"
+      ],
+      [
+        "Chapter 5",
+        "Surgery"
+      ],
+      [
+        "Adrenal Glands",
+        "Endocrine System"
+      ],
+      [
+        "Medical History",
+        "Medicines"
+      ],
+      [
+        "Tencent Zhishi Team",
+        "Zhang Wei"
+      ],
+      [
+        "Anal Cancer Treatment",
+        "Event A series of treatments available forAnal cancer patients, may include chemotherapy, radiation therapy or other medications.)\n(entity"
+      ],
+      [
+        "Large cell carcinoma",
+        "NSCLC"
+      ],
+      [
+        "Melanin",
+        "Melanocytes"
+      ],
+      [
+        "Squamous cell skin cancer",
+        "Surgery"
+      ],
+      [
+        "Care Team",
+        "Medical Binder"
+      ],
+      [
+        "Mohs surgery",
+        "Standard surgical excision"
+      ],
+      [
+        "Radiation therapy",
+        "Systemic therapies"
+      ]
+    ],
+    "count": 632,
+    "create_time": 1757045965,
+    "update_time": 1757045965,
+    "_id": "doc-3d7a4f05339f0e3f3870b407d21d9c8a"
+  }
+}

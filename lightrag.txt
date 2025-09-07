@@ -1,0 +1,39 @@
+#---------- for linux, os
+export LLM_API_KEY= ...
+
+python run_lightrag.py \
+  --subset medical \
+  --mode API \
+  --base_dir ./Examples/lightrag_workspace \
+  --model_name bge-large-en-v1.5 \
+  --embed_model bge-base-en \
+  --retrieve_topk 5 \
+#   --sample 100 \
+  --llm_base_url https://generativelanguage.googleapis.com/v1beta/openai/
+
+#----------------- for window
+
+$env:OPENAI_API_KEY="AIzaSyAOfGKxj1_jZS1LnDffwC2igRDdmBWQtmE"
+
+python run_lightrag.py `
+  --subset medical `
+  --mode API `
+  --base_dir ./Examples/lightrag_workspace `
+  --model_name gemini-1.5-flash `
+  --embed_model BAAI/bge-base-en `
+  --retrieve_topk 5 `
+  --llm_base_url https://generativelanguage.googleapis.com/v1beta/openai/
+
+#--- ollama3.2
+
+python run_lightrag.py `
+  --subset medical `
+  --mode API `
+  --base_dir ./Examples/lightrag_workspace `
+  --model_name llama3.2 `
+  --embed_model BAAI/bge-large-en-v1.5 `
+  --retrieve_topk 5 `
+  --llm_base_url http://localhost:11434/v1 `
+  --llm_api_key ollama
+
+
