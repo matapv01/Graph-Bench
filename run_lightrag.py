@@ -7,14 +7,14 @@ import argparse
 import json
 from typing import Dict, List
 
-from lightrag import LightRAG, QueryParam
-from lightrag.llm.openai import openai_complete_if_cache
-from lightrag.llm.hf import hf_embed
+from LightRAG.lightrag import LightRAG, QueryParam
+from LightRAG.lightrag.llm.openai import openai_complete_if_cache
+from LightRAG.lightrag.llm.hf import hf_embed
 from lightrag.utils import EmbeddingFunc
-from lightrag.kg.shared_storage import initialize_pipeline_status
+from LightRAG.lightrag.kg.shared_storage import initialize_pipeline_status
 from transformers import AutoModel, AutoTokenizer
 from tqdm import tqdm
-from lightrag.llm.ollama import ollama_model_complete, ollama_embed
+from LightRAG.lightrag.llm.ollama import ollama_model_complete, ollama_embed
 from transformers import AutoModelForCausalLM, AutoTokenizer
 import torch
 
