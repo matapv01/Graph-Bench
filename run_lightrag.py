@@ -304,7 +304,7 @@ def main():
     parser.add_argument("--base_dir", default="./lightrag_workspace", help="Base working directory")
     
     # Model configuration
-    parser.add_argument("--mode", required=True, choices=["API", "ollama"], help="Use API or ollama for LLM")
+    parser.add_argument("--mode", required=True, choices=["API", "ollama", "HF"], help="Use API or ollama for LLM")
     parser.add_argument("--model_name", default="qwen2.5-14b-instruct", help="LLM model identifier")
     parser.add_argument("--embed_model", default="bge-base-en", help="Embedding model name")
     parser.add_argument("--retrieve_topk", type=int, default=5, help="Number of top documents to retrieve")
@@ -322,8 +322,8 @@ def main():
     if args.subset not in SUBSET_PATHS:
         logging.error(f"Invalid subset: {args.subset}. Valid options: {list(SUBSET_PATHS.keys())}")
         return
-    if args.mode not in ["API", "ollama"]:
-        logging.error(f"Invalid mode: {args.subset}. Valid options: ['API', 'ollama']")
+    if args.mode not in ["API", "ollama", "HF"]:
+        logging.error(f"Invalid mode: {args.subset}. Valid options: ['API', 'ollama', 'HF']")
         return
     
     # Get file paths for this subset
