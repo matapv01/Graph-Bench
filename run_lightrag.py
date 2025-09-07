@@ -10,7 +10,7 @@ from typing import Dict, List
 from LightRAG.lightrag import LightRAG, QueryParam
 from LightRAG.lightrag.llm.openai import openai_complete_if_cache
 from LightRAG.lightrag.llm.hf import hf_embed
-from lightrag.utils import EmbeddingFunc
+from LightRAG.lightrag.utils import EmbeddingFunc
 from LightRAG.lightrag.kg.shared_storage import initialize_pipeline_status
 from transformers import AutoModel, AutoTokenizer
 from tqdm import tqdm
