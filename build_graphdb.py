@@ -51,7 +51,7 @@ async def build_graphdb(subset, base_dir, embed_model_name):
     for item in corpus_data:
         corpus_name = item["corpus_name"]
         context = item["context"]
-        rag.insert(context)
+        await rag.insert(context)
         logging.info(f"✅ Indexed {corpus_name}")
 
     logging.info(f"💾 Graph DB for {subset} saved at {os.path.join(base_dir, subset)}")
