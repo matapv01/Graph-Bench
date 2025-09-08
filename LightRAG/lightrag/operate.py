@@ -2356,8 +2356,10 @@ async def extract_keywords_only(
     if isinstance(keywords_data, dict):
         hl_keywords = keywords_data.get("high_level_keywords", [])
         ll_keywords = keywords_data.get("low_level_keywords", [])
+    elif isinstance(keywords_data, (list, tuple)):
+        hl_keywords, ll_keywords = keywords_data[:2]
     else:
-        hl_keywords, ll_keywords = keywords_data
+        hl_keywords, ll_keywords = [], []
 
 
     # 7. Cache only the processed keywords with cache type
