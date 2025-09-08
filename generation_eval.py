@@ -12,6 +12,8 @@ from langchain_community.embeddings import HuggingFaceBgeEmbeddings
 from Evaluation.metrics import compute_answer_correctness, compute_coverage_score, compute_faithfulness_score, compute_rouge_score
 from langchain_community.embeddings import OllamaEmbeddings
 from Evaluation.llm import OllamaClient,OllamaWrapper
+from transformers import AutoModelForCausalLM, AutoTokenizer, pipeline
+import torch
 
 async def evaluate_dataset(
     dataset: Dataset,
@@ -160,6 +162,37 @@ async def main(args: argparse.Namespace):
             base_url=args.base_url
         )
 
+
+    elif args.mode == "HF":
+       
+        # Load tokenizer & model
+        tokenizer = AutoTokenizer.from_pretrained(args.model)
+        model = AutoModelForCausalLM.from_pretrained(args.model, device_map="auto")
+
+        # Wrapper đơn giản tương tự BaseLanguageModel
+        class HFWrapper(BaseLanguageModel):
+            def __init__(self, model, tokenizer):
+                self.model = model
+                self.tokenizer = tokenizer
+
+            async def agenerate(self, prompts, **kwargs):
+                # Chạy synchronous trong async
+                responses = []
+                for prompt in prompts:
+                    inputs = self.tokenizer(prompt, return_tensors="pt").to(self.model.device)
+                    outputs = self.model.generate(**inputs, max_new_tokens=256)
+                    text = self.tokenizer.decode(outputs[0], skip_special_tokens=True)
+                    responses.append(text)
+                return responses
+
+        llm = HFWrapper(model, tokenizer)
+
+        # Embedding (HF)
+        from langchain_community.embeddings import HuggingFaceBgeEmbeddings
+        embedding = HuggingFaceBgeEmbeddings(model_name=args.embedding_model)
+
+        
+
     # Load evaluation data
     
     print(f"Loading evaluation data from {args.data_file}...")
@@ -167,8 +200,8 @@ async def main(args: argparse.Namespace):
         file_data = json.load(f)  # Now a list of question items
 
 
-
     
+        
     # Define the evaluation metrics for each question type
     metric_config = {
         'Fact Retrieval': ["rouge_score", "answer_correctness"],
@@ -256,10 +289,10 @@ if __name__ == "__main__":
     parser.add_argument(
         "--mode", 
         required=True,
-        choices=["API", "ollama"],
+        choices=["API", "ollama", "HF"],
         type=str,
         default="API",
-        help="Use API or ollama for LLM"
+        help="Use API or ollama or HF for LLM"
     )
 
     parser.add_argument(
