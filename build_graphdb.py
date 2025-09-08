@@ -16,6 +16,10 @@ from transformers import AutoModel, AutoTokenizer
 
 logging.basicConfig(format="%(levelname)s:%(message)s", level=logging.INFO)
 
+async def dummy_llm_func(prompt: str, **kwargs):
+    return "Dummy response"
+
+
 async def build_graphdb(subset, base_dir, embed_model_name):
     SUBSET_PATHS = {
         "medical": "./Datasets/Corpus/medical.json",
@@ -37,6 +41,8 @@ async def build_graphdb(subset, base_dir, embed_model_name):
     rag = LightRAG(
         working_dir=os.path.join(base_dir, subset),
         embedding_func=embedding_func,
+        llm_model_func=dummy_llm_func,   
+        llm_model_name="dummy-model"
     )
 
     await rag.initialize_storages()
