@@ -6,6 +6,9 @@ import asyncio
 import logging
 from tqdm import tqdm
 
+import sys, os
+sys.path.append(os.path.join(os.path.dirname(__file__), "LightRAG"))
+
 from lightrag import LightRAG, QueryParam
 
 logging.basicConfig(format="%(levelname)s:%(message)s", level=logging.INFO)

@@ -5,6 +5,9 @@ import asyncio
 import logging
 import argparse
 
+import sys, os
+sys.path.append(os.path.join(os.path.dirname(__file__), "LightRAG"))
+
 from lightrag import LightRAG
 from lightrag.kg.shared_storage import initialize_pipeline_status
 from lightrag.utils import EmbeddingFunc

@@ -1,0 +1,1 @@
+python run_inference.py --subset medical --model_name HuggingFaceH4/zephyr-7b-beta
