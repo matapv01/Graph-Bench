@@ -1,0 +1,20 @@
+
+## ollama local
+python -m generation_eval `
+  --mode API `
+  --model llama3.2 `
+  --base_url http://localhost:11434/v1 `
+  --embedding_model BAAI/bge-large-en-v1.5 `
+  --data_file ./results/lightrag/Medical/predictions_Medical.json `
+  --output_file ./results/evaluation_results.json `
+
+## nvidia
+$env:LLM_API_KEY=""
+python -m generation_eval `
+  --mode API `
+  --model deepseek-ai/deepseek-r1 `
+  --base_url https://integrate.api.nvidia.com/v1 `
+  --embedding_model BAAI/bge-large-en-v1.5 `
+  --data_file ./results/lightrag/Medical/predictions_Medical.json `
+  --output_file ./results/evaluation_results.json `
+

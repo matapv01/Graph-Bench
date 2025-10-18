@@ -1,0 +1,10 @@
+python run_rag.py `
+  --corpus ./Datasets/Corpus/medical.json `
+  --questions ./Datasets/Questions/medical_questions.json `
+  --output ./results/rag/medical_preds.json `
+  --model_name deepseek-ai/deepseek-r1 `
+  --embed_model BAAI/bge-large-en-v1.5 `
+  --llm_base_url https://integrate.api.nvidia.com/v1 `
+  --llm_api_key yourapikey `
+  --topk 5 `
+  --sample 5

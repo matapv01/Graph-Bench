@@ -1,0 +1,40 @@
+# lightrag
+datasets==3.3.2
+Evaluation==0.0.2
+langchain==0.3.26
+langchain_core==0.3.69
+langchain_openai==0.3.28
+numpy==2.3.1
+pydantic==2.11.7
+ragas==0.2.15
+rouge_score==0.1.2
+
+
+
+#-------------------
+nest_asyncio
+httpx
+langchain_core
+datasets
+json5
+rouge-score
+
+
+instructor
+aiolimiter
+google-genai==1.16.1
+vertexai
+sentencepiece
+voyageai
+igraph
+hnswlib
+
+# rag
+faiss-cpu
+
+
+# llama-index
+llama-index 
+llama-index-graph-store-neo4j
+llama-index-embeddings-
+llama-index-llms-langchain

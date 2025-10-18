@@ -1,0 +1,9 @@
+
+$env:LLM_API_KEY=""
+python run_hipporag2.py `
+  --subset medical `
+  --base_dir ./Examples/hipporag2_workspace `
+  --model_name deepseek-ai/deepseek-r1 `
+  --embed_model BAAI/bge-large-en-v1.5 `
+#   --sample 1000 `
+  --llm_base_url https://integrate.api.nvidia.com/v1 `

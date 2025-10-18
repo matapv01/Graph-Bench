@@ -1,0 +1,10 @@
+python run_hipporag.py `
+  --corpus ./Datasets/Corpus/medical.json `
+  --questions ./Datasets/Questions/medical_questions.json `
+  --output ./results/hipporag/medical_preds.json `
+  --llm_model_name deepseek-ai/deepseek-r1 `
+  --embed_model_name BAAI/bge-large-en-v1.5 `
+  --llm_base_url https://integrate.api.nvidia.com/v1 `
+  --llm_api_key yourapikey `
+  --top_k 5 `
+  --save_dir ./outputs/hipporag

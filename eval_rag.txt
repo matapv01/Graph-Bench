@@ -1,0 +1,10 @@
+
+# rag
+$env:LLM_API_KEY=""
+python -m generation_eval_rag `
+  --mode API `
+  --model deepseek-ai/deepseek-r1 `
+  --base_url https://integrate.api.nvidia.com/v1 `
+  --embedding_model BAAI/bge-large-en-v1.5 `
+  --data_file ./results/rag/medical_preds.json `
+  --output_file ./results/evaluation_results_rag.json `
